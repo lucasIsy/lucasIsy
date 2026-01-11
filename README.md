@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá :wave:
 
-<!--
-**lucasIsy/lucasisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha atuação como Engenheiro de Dados Júnior é pautada em três pilares fundamentais: **garantir dados de confiança**, a **otimização de recursos** e a construção de sistemas com **escalabilidade** alinhados ao négocio. 
 
-Here are some ideas to get you started:
+### Filosofia
+Minha atuação não é definida pelas ferramentas que utilizo, mas pelos problemas que resolvo e pelos resultados que entrego ao negócio. Acredito que a tecnologia é o meio, e o planejamento estratégico é a fundação para qualquer solução escalável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto Principal
+Pipeline end-to-end (Twitch/Steam) que viabiliza análises estratégicas sobre como os streamers impactam os jogos indies e revolucionam a monetização do entretenimento.
+[Ver Projeto](https://github.com/lucasIsy/Pipeline_to_data_analytics)
+
+### Tech Stack
+<img width="1041" height="77" alt="Image" src="https://github.com/user-attachments/assets/0ef7b0b5-5ec5-4c5a-adca-932db9222101" />
